@@ -1,0 +1,28 @@
+// VARIABLES
+$sass_color: #CF649A;
+$red_color: #FF0300;
+
+// APP
+h1{
+  color: rgba($red_color, 0.8);
+}
+
+h2{
+  color: $sass_color;
+}
+
+main{
+  p{
+    font-size: 12px;
+  }
+}
+
+h4{
+  color: rgba($red_color, 0.7);
+}
+
+footer{
+  p{
+    font-size: 11px;
+  }
+}
