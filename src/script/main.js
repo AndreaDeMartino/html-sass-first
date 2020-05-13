@@ -1,2 +1,7 @@
+// Import Jquery
+import $ from 'jquery'
 
-console.log('ciao');
+$(document).ready(function () {
+  console.log('Jquery e Js Ok');  
+});
+
